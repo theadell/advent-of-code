@@ -1,0 +1,502 @@
+Row 1: Gears and Adjacent Part Numbers
+  Gear at [78, 1]: Part Numbers [293]
+  Gear at [99, 1]: Part Numbers [38 433]
+  Gear at [105, 1]: Part Numbers [753]
+Row 2: Gears and Adjacent Part Numbers
+  Gear at [132, 2]: Part Numbers [36]
+  Gear at [68, 2]: Part Numbers [697]
+  Gear at [121, 2]: Part Numbers [529 472]
+Row 3: Gears and Adjacent Part Numbers
+  Gear at [5, 3]: Part Numbers [1]
+  Gear at [10, 3]: Part Numbers [225]
+  Gear at [107, 3]: Part Numbers [407]
+Row 4: Gears and Adjacent Part Numbers
+  Gear at [51, 4]: Part Numbers [348]
+  Gear at [84, 4]: Part Numbers [793]
+  Gear at [136, 4]: Part Numbers [941]
+Row 5: Gears and Adjacent Part Numbers
+  Gear at [118, 5]: Part Numbers [96]
+Row 6: Gears and Adjacent Part Numbers
+  Gear at [20, 6]: Part Numbers [833 589]
+  Gear at [103, 6]: Part Numbers [386]
+  Gear at [113, 6]: Part Numbers [823]
+  Gear at [130, 6]: Part Numbers [526]
+  Gear at [135, 6]: Part Numbers [613]
+Row 7: Gears and Adjacent Part Numbers
+  Gear at [55, 7]: Part Numbers [601]
+Row 8: Gears and Adjacent Part Numbers
+  Gear at [72, 8]: Part Numbers [84]
+Row 9: Gears and Adjacent Part Numbers
+  Gear at [9, 9]: Part Numbers [187]
+  Gear at [38, 9]: Part Numbers [254]
+  Gear at [124, 9]: Part Numbers [287]
+Row 10: Gears and Adjacent Part Numbers
+  Gear at [111, 10]: Part Numbers [213]
+  Gear at [129, 10]: Part Numbers [968]
+Row 11: Gears and Adjacent Part Numbers
+  Gear at [54, 11]: Part Numbers []
+  Gear at [67, 11]: Part Numbers [236]
+Row 12: Gears and Adjacent Part Numbers
+  Gear at [13, 12]: Part Numbers [394]
+  Gear at [29, 12]: Part Numbers [631]
+  Gear at [34, 12]: Part Numbers [136]
+Row 13: Gears and Adjacent Part Numbers
+  Gear at [42, 13]: Part Numbers [594]
+  Gear at [115, 13]: Part Numbers [123 45]
+Row 14: Gears and Adjacent Part Numbers
+  Gear at [21, 14]: Part Numbers [740 747]
+  Gear at [66, 14]: Part Numbers [186 632]
+  Gear at [111, 14]: Part Numbers [927]
+Row 15: Gears and Adjacent Part Numbers
+  Gear at [59, 15]: Part Numbers [883 889]
+  Gear at [72, 15]: Part Numbers []
+  Gear at [37, 15]: Part Numbers [463]
+Row 16: Gears and Adjacent Part Numbers
+  Gear at [11, 16]: Part Numbers []
+  Gear at [134, 16]: Part Numbers [822]
+Row 18: Gears and Adjacent Part Numbers
+  Gear at [102, 18]: Part Numbers []
+Row 19: Gears and Adjacent Part Numbers
+  Gear at [105, 19]: Part Numbers [969 736]
+  Gear at [30, 19]: Part Numbers []
+  Gear at [32, 19]: Part Numbers [44 286]
+  Gear at [58, 19]: Part Numbers [401]
+  Gear at [63, 19]: Part Numbers [361 101]
+  Gear at [79, 19]: Part Numbers [88]
+  Gear at [97, 19]: Part Numbers [132]
+Row 20: Gears and Adjacent Part Numbers
+  Gear at [3, 20]: Part Numbers [30]
+Row 21: Gears and Adjacent Part Numbers
+  Gear at [41, 21]: Part Numbers [976]
+  Gear at [48, 21]: Part Numbers [110 178]
+  Gear at [103, 21]: Part Numbers []
+Row 22: Gears and Adjacent Part Numbers
+  Gear at [6, 22]: Part Numbers [537]
+  Gear at [54, 22]: Part Numbers [897 98]
+Row 23: Gears and Adjacent Part Numbers
+  Gear at [35, 23]: Part Numbers [262]
+Row 24: Gears and Adjacent Part Numbers
+  Gear at [40, 24]: Part Numbers [448 277]
+  Gear at [78, 24]: Part Numbers [792]
+  Gear at [85, 24]: Part Numbers [524 501]
+  Gear at [109, 24]: Part Numbers [871]
+  Gear at [120, 24]: Part Numbers [953]
+  Gear at [18, 24]: Part Numbers [479]
+Row 25: Gears and Adjacent Part Numbers
+  Gear at [31, 25]: Part Numbers [775 98]
+  Gear at [56, 25]: Part Numbers [82]
+  Gear at [73, 25]: Part Numbers []
+  Gear at [89, 25]: Part Numbers [415 955]
+  Gear at [94, 25]: Part Numbers [109 26]
+Row 26: Gears and Adjacent Part Numbers
+  Gear at [16, 26]: Part Numbers [166]
+  Gear at [50, 26]: Part Numbers [143 638]
+Row 27: Gears and Adjacent Part Numbers
+  Gear at [126, 27]: Part Numbers [507]
+Row 28: Gears and Adjacent Part Numbers
+  Gear at [92, 28]: Part Numbers [390]
+Row 29: Gears and Adjacent Part Numbers
+  Gear at [20, 29]: Part Numbers [112 142]
+  Gear at [37, 29]: Part Numbers [493]
+  Gear at [60, 29]: Part Numbers [299]
+  Gear at [70, 29]: Part Numbers [546]
+  Gear at [3, 29]: Part Numbers [968]
+Row 30: Gears and Adjacent Part Numbers
+  Gear at [121, 30]: Part Numbers [348]
+Row 31: Gears and Adjacent Part Numbers
+  Gear at [81, 31]: Part Numbers [343 662]
+Row 32: Gears and Adjacent Part Numbers
+  Gear at [91, 32]: Part Numbers [383 445]
+  Gear at [102, 32]: Part Numbers [42]
+  Gear at [110, 32]: Part Numbers [531]
+Row 33: Gears and Adjacent Part Numbers
+  Gear at [25, 33]: Part Numbers [49 304]
+  Gear at [123, 33]: Part Numbers [173 587]
+Row 34: Gears and Adjacent Part Numbers
+  Gear at [38, 34]: Part Numbers [905]
+  Gear at [45, 34]: Part Numbers [590 40]
+  Gear at [66, 34]: Part Numbers [495]
+  Gear at [117, 34]: Part Numbers [293 170]
+Row 35: Gears and Adjacent Part Numbers
+  Gear at [9, 35]: Part Numbers [877 493]
+  Gear at [19, 35]: Part Numbers [319]
+  Gear at [87, 35]: Part Numbers [422]
+Row 36: Gears and Adjacent Part Numbers
+  Gear at [60, 36]: Part Numbers [678]
+  Gear at [95, 36]: Part Numbers [37 475]
+  Gear at [102, 36]: Part Numbers [357]
+Row 37: Gears and Adjacent Part Numbers
+  Gear at [32, 37]: Part Numbers [438 688]
+  Gear at [37, 37]: Part Numbers [224 40]
+  Gear at [76, 37]: Part Numbers [66]
+  Gear at [85, 37]: Part Numbers [194]
+Row 38: Gears and Adjacent Part Numbers
+  Gear at [21, 38]: Part Numbers [727]
+  Gear at [92, 38]: Part Numbers [798]
+  Gear at [114, 38]: Part Numbers [122]
+Row 39: Gears and Adjacent Part Numbers
+  Gear at [26, 39]: Part Numbers []
+  Gear at [102, 39]: Part Numbers [351]
+Row 40: Gears and Adjacent Part Numbers
+  Gear at [3, 40]: Part Numbers []
+  Gear at [61, 40]: Part Numbers []
+  Gear at [129, 40]: Part Numbers [312]
+  Gear at [134, 40]: Part Numbers [453 452]
+Row 41: Gears and Adjacent Part Numbers
+  Gear at [16, 41]: Part Numbers [509]
+Row 42: Gears and Adjacent Part Numbers
+  Gear at [10, 42]: Part Numbers [746]
+  Gear at [50, 42]: Part Numbers [155 46]
+  Gear at [78, 42]: Part Numbers [296 26]
+  Gear at [107, 42]: Part Numbers [158]
+Row 43: Gears and Adjacent Part Numbers
+  Gear at [97, 43]: Part Numbers [7]
+  Gear at [124, 43]: Part Numbers [51 536]
+  Gear at [131, 43]: Part Numbers [795]
+  Gear at [41, 43]: Part Numbers [190]
+  Gear at [82, 43]: Part Numbers [893 769]
+  Gear at [86, 43]: Part Numbers [214 47]
+Row 44: Gears and Adjacent Part Numbers
+  Gear at [64, 44]: Part Numbers [456]
+Row 45: Gears and Adjacent Part Numbers
+  Gear at [70, 45]: Part Numbers [614]
+Row 46: Gears and Adjacent Part Numbers
+  Gear at [8, 46]: Part Numbers [82]
+  Gear at [12, 46]: Part Numbers [868]
+  Gear at [18, 46]: Part Numbers [973]
+  Gear at [59, 46]: Part Numbers [27]
+  Gear at [100, 46]: Part Numbers []
+  Gear at [127, 46]: Part Numbers [441 682]
+Row 47: Gears and Adjacent Part Numbers
+  Gear at [80, 47]: Part Numbers [13]
+Row 49: Gears and Adjacent Part Numbers
+  Gear at [112, 49]: Part Numbers [690]
+  Gear at [10, 49]: Part Numbers [930 397]
+  Gear at [24, 49]: Part Numbers [441]
+  Gear at [42, 49]: Part Numbers [686]
+  Gear at [94, 49]: Part Numbers [417]
+  Gear at [103, 49]: Part Numbers [55]
+Row 50: Gears and Adjacent Part Numbers
+  Gear at [5, 50]: Part Numbers [79]
+  Gear at [31, 50]: Part Numbers []
+Row 52: Gears and Adjacent Part Numbers
+  Gear at [48, 52]: Part Numbers [935 35]
+  Gear at [73, 52]: Part Numbers [83]
+  Gear at [95, 52]: Part Numbers [579 854]
+Row 53: Gears and Adjacent Part Numbers
+  Gear at [22, 53]: Part Numbers [22 146]
+  Gear at [33, 53]: Part Numbers [27]
+  Gear at [116, 53]: Part Numbers [344]
+Row 54: Gears and Adjacent Part Numbers
+  Gear at [91, 54]: Part Numbers [497]
+Row 55: Gears and Adjacent Part Numbers
+  Gear at [52, 55]: Part Numbers [886]
+  Gear at [65, 55]: Part Numbers [503]
+  Gear at [6, 55]: Part Numbers [892 152]
+  Gear at [20, 55]: Part Numbers []
+Row 56: Gears and Adjacent Part Numbers
+  Gear at [9, 56]: Part Numbers [814 984]
+  Gear at [44, 56]: Part Numbers [898]
+  Gear at [74, 56]: Part Numbers [224]
+  Gear at [97, 56]: Part Numbers [650]
+  Gear at [135, 56]: Part Numbers [873]
+Row 57: Gears and Adjacent Part Numbers
+  Gear at [3, 57]: Part Numbers [99]
+Row 58: Gears and Adjacent Part Numbers
+  Gear at [82, 58]: Part Numbers [353 503]
+  Gear at [126, 58]: Part Numbers [562]
+Row 59: Gears and Adjacent Part Numbers
+  Gear at [17, 59]: Part Numbers [109]
+  Gear at [30, 59]: Part Numbers [445]
+Row 60: Gears and Adjacent Part Numbers
+  Gear at [48, 60]: Part Numbers []
+  Gear at [65, 60]: Part Numbers [797 94]
+  Gear at [86, 60]: Part Numbers [618 19]
+Row 61: Gears and Adjacent Part Numbers
+  Gear at [78, 61]: Part Numbers [553 582]
+  Gear at [91, 61]: Part Numbers [994 229]
+Row 62: Gears and Adjacent Part Numbers
+  Gear at [4, 62]: Part Numbers [623]
+  Gear at [71, 62]: Part Numbers [683]
+Row 63: Gears and Adjacent Part Numbers
+  Gear at [88, 63]: Part Numbers [162]
+  Gear at [96, 63]: Part Numbers [246]
+  Gear at [130, 63]: Part Numbers [273 487]
+Row 64: Gears and Adjacent Part Numbers
+  Gear at [29, 64]: Part Numbers [771 269]
+  Gear at [106, 64]: Part Numbers [649]
+Row 65: Gears and Adjacent Part Numbers
+  Gear at [16, 65]: Part Numbers [571]
+  Gear at [76, 65]: Part Numbers [209 399]
+  Gear at [124, 65]: Part Numbers [212]
+Row 67: Gears and Adjacent Part Numbers
+  Gear at [133, 67]: Part Numbers [547]
+  Gear at [3, 67]: Part Numbers []
+  Gear at [9, 67]: Part Numbers [708 768]
+  Gear at [24, 67]: Part Numbers [408]
+  Gear at [42, 67]: Part Numbers [890]
+  Gear at [89, 67]: Part Numbers [340]
+  Gear at [109, 67]: Part Numbers [17 361]
+Row 68: Gears and Adjacent Part Numbers
+  Gear at [102, 68]: Part Numbers [257]
+  Gear at [131, 68]: Part Numbers [621]
+Row 69: Gears and Adjacent Part Numbers
+  Gear at [86, 69]: Part Numbers []
+  Gear at [113, 69]: Part Numbers [280 44]
+  Gear at [31, 69]: Part Numbers [194]
+  Gear at [66, 69]: Part Numbers [261 246]
+Row 71: Gears and Adjacent Part Numbers
+  Gear at [52, 71]: Part Numbers []
+  Gear at [25, 71]: Part Numbers []
+  Gear at [39, 71]: Part Numbers [868]
+  Gear at [46, 71]: Part Numbers [716 166]
+Row 72: Gears and Adjacent Part Numbers
+  Gear at [34, 72]: Part Numbers []
+  Gear at [65, 72]: Part Numbers [470]
+Row 73: Gears and Adjacent Part Numbers
+  Gear at [127, 73]: Part Numbers [289]
+  Gear at [13, 73]: Part Numbers [791 255]
+  Gear at [86, 73]: Part Numbers []
+  Gear at [94, 73]: Part Numbers [5 893]
+Row 75: Gears and Adjacent Part Numbers
+  Gear at [71, 75]: Part Numbers [887]
+Row 77: Gears and Adjacent Part Numbers
+  Gear at [114, 77]: Part Numbers [399 556]
+  Gear at [124, 77]: Part Numbers []
+Row 78: Gears and Adjacent Part Numbers
+  Gear at [30, 78]: Part Numbers [378]
+  Gear at [71, 78]: Part Numbers [576]
+  Gear at [93, 78]: Part Numbers [58]
+Row 79: Gears and Adjacent Part Numbers
+  Gear at [35, 79]: Part Numbers [522]
+  Gear at [98, 79]: Part Numbers []
+Row 80: Gears and Adjacent Part Numbers
+  Gear at [60, 80]: Part Numbers []
+  Gear at [87, 80]: Part Numbers [75]
+  Gear at [51, 80]: Part Numbers [352 351]
+Row 81: Gears and Adjacent Part Numbers
+  Gear at [71, 81]: Part Numbers [636]
+Row 82: Gears and Adjacent Part Numbers
+  Gear at [123, 82]: Part Numbers [124]
+  Gear at [27, 82]: Part Numbers [880]
+Row 83: Gears and Adjacent Part Numbers
+  Gear at [14, 83]: Part Numbers [663]
+  Gear at [30, 83]: Part Numbers [114]
+Row 84: Gears and Adjacent Part Numbers
+  Gear at [35, 84]: Part Numbers [158 722]
+  Gear at [42, 84]: Part Numbers [559]
+  Gear at [54, 84]: Part Numbers [961]
+  Gear at [69, 84]: Part Numbers [128 81]
+  Gear at [78, 84]: Part Numbers [476]
+Row 86: Gears and Adjacent Part Numbers
+  Gear at [5, 86]: Part Numbers [329]
+  Gear at [48, 86]: Part Numbers [993]
+  Gear at [95, 86]: Part Numbers [929 519]
+Row 87: Gears and Adjacent Part Numbers
+  Gear at [20, 87]: Part Numbers [767]
+  Gear at [62, 87]: Part Numbers [111]
+  Gear at [102, 87]: Part Numbers []
+  Gear at [124, 87]: Part Numbers [950]
+Row 88: Gears and Adjacent Part Numbers
+  Gear at [76, 88]: Part Numbers [141]
+  Gear at [112, 88]: Part Numbers [426]
+  Gear at [126, 88]: Part Numbers [698]
+  Gear at [132, 88]: Part Numbers [907 301]
+  Gear at [3, 88]: Part Numbers [560]
+Row 89: Gears and Adjacent Part Numbers
+  Gear at [38, 89]: Part Numbers [217 29]
+  Gear at [83, 89]: Part Numbers [866]
+Row 90: Gears and Adjacent Part Numbers
+  Gear at [74, 90]: Part Numbers [513]
+  Gear at [102, 90]: Part Numbers [920 639]
+  Gear at [113, 90]: Part Numbers [501]
+  Gear at [3, 90]: Part Numbers [766]
+  Gear at [10, 90]: Part Numbers [49]
+  Gear at [30, 90]: Part Numbers [55]
+  Gear at [46, 90]: Part Numbers [179]
+Row 91: Gears and Adjacent Part Numbers
+  Gear at [20, 91]: Part Numbers [710]
+Row 92: Gears and Adjacent Part Numbers
+  Gear at [51, 92]: Part Numbers [969 75]
+Row 93: Gears and Adjacent Part Numbers
+  Gear at [48, 93]: Part Numbers []
+  Gear at [64, 93]: Part Numbers [133]
+  Gear at [107, 93]: Part Numbers [379]
+  Gear at [126, 93]: Part Numbers [122 170]
+Row 94: Gears and Adjacent Part Numbers
+  Gear at [97, 94]: Part Numbers [452]
+  Gear at [22, 94]: Part Numbers [718]
+  Gear at [30, 94]: Part Numbers [932]
+  Gear at [89, 94]: Part Numbers [761]
+Row 95: Gears and Adjacent Part Numbers
+  Gear at [58, 95]: Part Numbers []
+  Gear at [68, 95]: Part Numbers [177]
+  Gear at [77, 95]: Part Numbers [840]
+  Gear at [119, 95]: Part Numbers [107]
+  Gear at [135, 95]: Part Numbers [912]
+Row 96: Gears and Adjacent Part Numbers
+  Gear at [45, 96]: Part Numbers [941 419]
+  Gear at [70, 96]: Part Numbers [83]
+Row 97: Gears and Adjacent Part Numbers
+  Gear at [26, 97]: Part Numbers [991]
+  Gear at [33, 97]: Part Numbers [286 412]
+Row 98: Gears and Adjacent Part Numbers
+  Gear at [64, 98]: Part Numbers [788 561]
+  Gear at [84, 98]: Part Numbers [712]
+  Gear at [99, 98]: Part Numbers [946 490]
+  Gear at [108, 98]: Part Numbers [58]
+  Gear at [7, 98]: Part Numbers []
+Row 99: Gears and Adjacent Part Numbers
+  Gear at [72, 99]: Part Numbers [79 725]
+  Gear at [77, 99]: Part Numbers [978 533]
+Row 100: Gears and Adjacent Part Numbers
+  Gear at [87, 100]: Part Numbers [273 439]
+  Gear at [118, 100]: Part Numbers [246]
+Row 101: Gears and Adjacent Part Numbers
+  Gear at [12, 101]: Part Numbers []
+  Gear at [126, 101]: Part Numbers [529]
+Row 102: Gears and Adjacent Part Numbers
+  Gear at [35, 102]: Part Numbers [422]
+  Gear at [114, 102]: Part Numbers [376]
+  Gear at [20, 102]: Part Numbers [594]
+Row 103: Gears and Adjacent Part Numbers
+  Gear at [82, 103]: Part Numbers [749]
+Row 104: Gears and Adjacent Part Numbers
+  Gear at [91, 104]: Part Numbers [139]
+Row 106: Gears and Adjacent Part Numbers
+  Gear at [3, 106]: Part Numbers [295]
+  Gear at [54, 106]: Part Numbers [800]
+  Gear at [84, 106]: Part Numbers [474 737]
+  Gear at [129, 106]: Part Numbers [962]
+Row 107: Gears and Adjacent Part Numbers
+  Gear at [28, 107]: Part Numbers []
+  Gear at [47, 107]: Part Numbers [413 609]
+Row 108: Gears and Adjacent Part Numbers
+  Gear at [11, 108]: Part Numbers [334]
+  Gear at [93, 108]: Part Numbers [722 37]
+  Gear at [129, 108]: Part Numbers [8]
+  Gear at [135, 108]: Part Numbers [679 553]
+Row 109: Gears and Adjacent Part Numbers
+  Gear at [34, 109]: Part Numbers [535]
+  Gear at [42, 109]: Part Numbers []
+  Gear at [44, 109]: Part Numbers [582]
+  Gear at [97, 109]: Part Numbers [519 471]
+Row 110: Gears and Adjacent Part Numbers
+  Gear at [24, 110]: Part Numbers [61]
+  Gear at [56, 110]: Part Numbers [229 844]
+  Gear at [88, 110]: Part Numbers []
+  Gear at [111, 110]: Part Numbers [342]
+  Gear at [123, 110]: Part Numbers []
+Row 111: Gears and Adjacent Part Numbers
+  Gear at [66, 111]: Part Numbers [185]
+  Gear at [90, 111]: Part Numbers [559 313]
+  Gear at [131, 111]: Part Numbers [974]
+Row 112: Gears and Adjacent Part Numbers
+  Gear at [118, 112]: Part Numbers [994 936]
+  Gear at [5, 112]: Part Numbers [285]
+  Gear at [14, 112]: Part Numbers [326]
+  Gear at [20, 112]: Part Numbers [493 247]
+  Gear at [76, 112]: Part Numbers [789]
+  Gear at [96, 112]: Part Numbers []
+Row 113: Gears and Adjacent Part Numbers
+  Gear at [34, 113]: Part Numbers [508]
+  Gear at [49, 113]: Part Numbers [705]
+  Gear at [102, 113]: Part Numbers [596]
+Row 114: Gears and Adjacent Part Numbers
+  Gear at [71, 114]: Part Numbers [212]
+  Gear at [113, 114]: Part Numbers [739]
+Row 115: Gears and Adjacent Part Numbers
+  Gear at [89, 115]: Part Numbers [368]
+Row 116: Gears and Adjacent Part Numbers
+  Gear at [35, 116]: Part Numbers [560]
+  Gear at [48, 116]: Part Numbers [172 739]
+  Gear at [124, 116]: Part Numbers [277]
+  Gear at [133, 116]: Part Numbers [22 170]
+Row 118: Gears and Adjacent Part Numbers
+  Gear at [86, 118]: Part Numbers [875]
+  Gear at [4, 118]: Part Numbers [601 840]
+  Gear at [12, 118]: Part Numbers [234 636]
+  Gear at [52, 118]: Part Numbers [812 35]
+  Gear at [59, 118]: Part Numbers [429]
+Row 119: Gears and Adjacent Part Numbers
+  Gear at [20, 119]: Part Numbers [547]
+  Gear at [66, 119]: Part Numbers [532 615]
+  Gear at [105, 119]: Part Numbers [536 774]
+  Gear at [120, 119]: Part Numbers []
+Row 120: Gears and Adjacent Part Numbers
+  Gear at [64, 120]: Part Numbers []
+  Gear at [82, 120]: Part Numbers [532]
+  Gear at [94, 120]: Part Numbers []
+  Gear at [126, 120]: Part Numbers [676]
+  Gear at [31, 120]: Part Numbers []
+Row 121: Gears and Adjacent Part Numbers
+  Gear at [9, 121]: Part Numbers [817 558]
+Row 122: Gears and Adjacent Part Numbers
+  Gear at [5, 122]: Part Numbers [12]
+  Gear at [133, 122]: Part Numbers [61]
+Row 123: Gears and Adjacent Part Numbers
+  Gear at [82, 123]: Part Numbers [437]
+  Gear at [90, 123]: Part Numbers [339]
+  Gear at [113, 123]: Part Numbers [486 443]
+  Gear at [40, 123]: Part Numbers [870]
+  Gear at [68, 123]: Part Numbers [975]
+Row 124: Gears and Adjacent Part Numbers
+  Gear at [66, 124]: Part Numbers [122]
+  Gear at [74, 124]: Part Numbers [234]
+Row 125: Gears and Adjacent Part Numbers
+  Gear at [14, 125]: Part Numbers []
+  Gear at [19, 125]: Part Numbers [350 854]
+  Gear at [50, 125]: Part Numbers [457 334]
+Row 126: Gears and Adjacent Part Numbers
+  Gear at [29, 126]: Part Numbers [617 426]
+  Gear at [42, 126]: Part Numbers [948]
+  Gear at [85, 126]: Part Numbers [491 401]
+  Gear at [96, 126]: Part Numbers [810]
+Row 127: Gears and Adjacent Part Numbers
+  Gear at [23, 127]: Part Numbers [643]
+  Gear at [36, 127]: Part Numbers [942 252]
+Row 128: Gears and Adjacent Part Numbers
+  Gear at [59, 128]: Part Numbers []
+  Gear at [123, 128]: Part Numbers [40 460]
+  Gear at [133, 128]: Part Numbers [743 431]
+Row 129: Gears and Adjacent Part Numbers
+  Gear at [51, 129]: Part Numbers [496 911]
+  Gear at [84, 129]: Part Numbers []
+  Gear at [92, 129]: Part Numbers [370 241]
+  Gear at [129, 129]: Part Numbers [331 329]
+Row 130: Gears and Adjacent Part Numbers
+  Gear at [34, 130]: Part Numbers [276]
+  Gear at [90, 130]: Part Numbers []
+  Gear at [105, 130]: Part Numbers [309]
+Row 131: Gears and Adjacent Part Numbers
+  Gear at [77, 131]: Part Numbers []
+  Gear at [113, 131]: Part Numbers []
+Row 132: Gears and Adjacent Part Numbers
+  Gear at [86, 132]: Part Numbers []
+  Gear at [18, 132]: Part Numbers [12]
+  Gear at [23, 132]: Part Numbers [15 132]
+  Gear at [28, 132]: Part Numbers [577]
+Row 133: Gears and Adjacent Part Numbers
+  Gear at [45, 133]: Part Numbers [219 91]
+  Gear at [52, 133]: Part Numbers []
+  Gear at [98, 133]: Part Numbers [539 639]
+  Gear at [14, 133]: Part Numbers []
+Row 134: Gears and Adjacent Part Numbers
+  Gear at [54, 134]: Part Numbers [3 526]
+  Gear at [90, 134]: Part Numbers [460]
+Row 135: Gears and Adjacent Part Numbers
+  Gear at [22, 135]: Part Numbers [313]
+  Gear at [136, 135]: Part Numbers [403]
+Row 136: Gears and Adjacent Part Numbers
+  Gear at [63, 136]: Part Numbers [238]
+  Gear at [74, 136]: Part Numbers [666]
+Row 137: Gears and Adjacent Part Numbers
+  Gear at [52, 137]: Part Numbers [741]
+  Gear at [89, 137]: Part Numbers [152]
+  Gear at [103, 137]: Part Numbers [137]
+Row 138: Gears and Adjacent Part Numbers
+  Gear at [81, 138]: Part Numbers [623]
+  Gear at [129, 138]: Part Numbers [153]
+  Gear at [29, 138]: Part Numbers [342]
+529618
+22101191
